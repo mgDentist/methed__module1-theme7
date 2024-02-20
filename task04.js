@@ -1,3 +1,5 @@
+'use strict';
+
 const allСashboxTask04 = [
     [12, 4500],
     [7, 3210],
